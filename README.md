@@ -1,10 +1,9 @@
-# Zeynep_Ozel
+# PROJECT: HEARTH ATTACK PREDICTION
 
-PROJECT: HEARTH ATTACK PREDICTION
-1-Introducing about values
-Overview
+## Introducing about values
+## Overview
+
 This file describes the contents of the heart-disease directory.
-
 This directory contains 4 databases concerning heart disease diagnosis. All attributes are numeric-valued. The data was collected from the four following locations:
 
 Cleveland Clinic Foundation (cleveland.data)
